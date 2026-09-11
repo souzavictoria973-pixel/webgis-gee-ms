@@ -72,7 +72,8 @@ Ranking estadual
         ↓
 Comparação com Mato Grosso do Sul
 
-## 🌎 Origem dos dados e rastreabilidade
+
+#### 🌎 Origem dos dados e rastreabilidade
 
 A construção deste WebGIS utiliza diferentes fontes oficiais e públicas.  
 Cada conjunto de dados possui uma função específica dentro da análise.
