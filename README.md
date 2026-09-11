@@ -71,3 +71,31 @@ Emissão por habitante
 Ranking estadual
         ↓
 Comparação com Mato Grosso do Sul
+
+## 🌎 Origem dos dados e rastreabilidade
+
+A construção deste WebGIS utiliza diferentes fontes oficiais e públicas.  
+Cada conjunto de dados possui uma função específica dentro da análise.
+
+### 🌱 Emissões de Gases de Efeito Estufa
+
+Os dados municipais de emissões de GEE foram obtidos no:
+
+**SEEG — Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa**
+
+O SEEG disponibiliza estimativas de emissões brasileiras por diferentes recortes, incluindo:
+
+- estados;
+- municípios;
+- setores de emissão;
+- gases;
+- séries temporais.
+
+Plataforma utilizada:
+
+https://plataforma.seeg.eco.br/
+
+No projeto, os dados do SEEG foram utilizados como fonte da variável:
+
+```text
+emissao
